@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StepSavi150
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning how to work with SDL2
+- 🌱 I’m currently learning how to make a RayTracer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
